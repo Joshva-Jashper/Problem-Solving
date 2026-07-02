@@ -230,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0844-backspace-string-compare) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
