@@ -234,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0328-odd-even-linked-list) |
+## Math
+|  |
+| ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
