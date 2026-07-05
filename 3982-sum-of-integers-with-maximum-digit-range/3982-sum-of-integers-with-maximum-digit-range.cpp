@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxDigitRange(vector<int>& nums) {
-        unordered_map<int,int> mpp;
+        vector<pair<int,int>> mpp;
 
         int max_all =0;
 
@@ -23,16 +23,16 @@ public:
             int k = max_digit - min_digit;
 
             max_all = max(max_all,k);
-            mpp[num]=k;
+            mpp.push_back({num,k});
 
         }
         int sum = 0;
 
-        for (auto [x,y] : mpp)
+        for (auto it : mpp)
         {
-            if(y==max_all)
+            if(it.second==max_all)
             {
-                sum+=x;
+                sum+=it.first;
             }
         }
 
