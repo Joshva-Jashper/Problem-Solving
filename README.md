@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
