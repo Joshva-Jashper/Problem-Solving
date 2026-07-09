@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1748-sum-of-unique-elements](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-swim-in-rising-water](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
