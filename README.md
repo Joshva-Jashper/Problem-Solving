@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1631-path-with-minimum-effort](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1748-sum-of-unique-elements](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1331-rank-transform-of-an-array](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1748-sum-of-unique-elements](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
