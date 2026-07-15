@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String Matching
 |  |
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
