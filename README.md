@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0827-making-a-large-island) |
 | [0904-fruit-into-baskets](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0904-fruit-into-baskets) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
