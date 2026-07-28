@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0455-assign-cookies](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0455-assign-cookies) |
+| [0525-contiguous-array](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0733-flood-fill) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0525-contiguous-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Topological Sort
 |  |
