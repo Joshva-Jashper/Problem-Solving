@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0827-making-a-large-island) |
+| [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [1020-number-of-enclaves](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -323,4 +326,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
