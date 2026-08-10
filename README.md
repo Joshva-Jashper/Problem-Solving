@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1143-longest-common-subsequence](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## String
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -329,12 +331,23 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
