@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0137-single-number-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
