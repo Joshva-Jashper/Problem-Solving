@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0844-backspace-string-compare](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [2073-time-needed-to-buy-tickets](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2073-time-needed-to-buy-tickets) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
 | ------- |
