@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1748-sum-of-unique-elements](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-number-of-paths-with-max-score](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## String
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0525-contiguous-array) |
+| [1872-stone-game-viii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Topological Sort
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -351,17 +355,20 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
