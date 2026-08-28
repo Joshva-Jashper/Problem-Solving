@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1603-design-parking-system](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0844-backspace-string-compare) |
+| [1603-design-parking-system](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1603-design-parking-system) |
 | [2073-time-needed-to-buy-tickets](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
