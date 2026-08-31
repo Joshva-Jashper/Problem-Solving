@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0328-odd-even-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
 | ------- |
