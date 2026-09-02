@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## String Matching
 |  |
 | ------- |
