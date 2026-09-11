@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1020-number-of-enclaves](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -406,4 +407,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1603-design-parking-system) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
