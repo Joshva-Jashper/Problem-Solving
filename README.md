@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0127-word-ladder) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0844-backspace-string-compare) |
 | [1598-crawler-log-folder](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
@@ -442,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
