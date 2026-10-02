@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0127-word-ladder) |
@@ -448,4 +450,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
