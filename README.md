@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
 | [0844-backspace-string-compare](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1598-crawler-log-folder](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1598-crawler-log-folder) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0856-score-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
