@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/2706-buy-two-chocolates) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0137-single-number-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0137-single-number-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1927-sum-game) |
 | [2706-buy-two-chocolates](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/2706-buy-two-chocolates) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
