@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1598-crawler-log-folder](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0525-contiguous-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1872-stone-game-viii) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1510-stone-game-iv](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1927-sum-game) |
