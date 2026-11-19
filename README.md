@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0383-ransom-note) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1603-design-parking-system](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/1748-sum-of-unique-elements) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0076-minimum-window-substring](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0127-word-ladder) |
+| [0383-ransom-note](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0525-contiguous-array) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0127-word-ladder) |
+| [0383-ransom-note](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/Joshva-Jashper/Problem-Solving/tree/master/0500-keyboard-row) |
 | [0721-accounts-merge](https://github.com/joshvajaspher6-dotcom/Problem-Solving/tree/master/0721-accounts-merge) |
